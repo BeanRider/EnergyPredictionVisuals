@@ -1,8 +1,7 @@
-# EnergyPredictionVisuals
-Data visualization. Northeastern university energy usage prediction.
-
 <b>This is an old project from October 2016.</b>
 
+# Northeastern University — Building Energy Usage – 2030 Predictions
+Data visualization. 
 Java + Processing.
 
 ## Screenshots
@@ -29,6 +28,3 @@ Java + Processing.
   <img src="https://raw.githubusercontent.com/BeanRider/EnergyPredictionVisuals/master/screenshots/violin-3.png" width="350px"/>
   <img src="https://raw.githubusercontent.com/BeanRider/EnergyPredictionVisuals/master/screenshots/violin-4.png" width="350px"/>
 </p>
-
-
-
