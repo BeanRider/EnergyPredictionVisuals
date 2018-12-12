@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RCPVisualizer_Dev:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RCPVisualizer_Dev_jar</output-path>
+    <root id="archive" name="RCPVisualizer_Dev.jar">
+      <element id="module-output" name="RCPVisualizer_Dev" />
+      <element id="extracted-dir" path="/Applications/Processing.app/Contents/Java/core/library/core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Applications/Processing.app/Contents/Java/core/library/gluegen-rt-natives-linux-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Applications/Processing.app/Contents/Java/core/library/gluegen-rt-natives-linux-armv6hf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Applications/Processing.app/Contents/Java/core/library/gluegen-rt-natives-linux-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Applications/Processing.app/Contents/Java/core/library/gluegen-rt-natives-macosx-universal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Applications/Processing.app/Contents/Java/core/library/gluegen-rt-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Applications/Processing.app/Contents/Java/core/library/gluegen-rt-natives-windows-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Applications/Processing.app/Contents/Java/core/library/gluegen-rt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Applications/Processing.app/Contents/Java/core/library/jogl-all-natives-linux-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Applications/Processing.app/Contents/Java/core/library/jogl-all-natives-linux-armv6hf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Applications/Processing.app/Contents/Java/core/library/jogl-all-natives-linux-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Applications/Processing.app/Contents/Java/core/library/jogl-all-natives-macosx-universal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Applications/Processing.app/Contents/Java/core/library/jogl-all-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Applications/Processing.app/Contents/Java/core/library/jogl-all-natives-windows-i586.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Applications/Processing.app/Contents/Java/core/library/jogl-all.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Programming/Libraries/joda-time-2.8.2/joda-time-2.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Programming/Libraries/commons-csv-1.4/commons-csv-1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
